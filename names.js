@@ -1,6 +1,6 @@
 //version 1: using a while loop
 
-let names = [ 'Nyx','Kairi', 'Whisper', 'Thea'];
+let names = [ 'Nyx','Kairi', 'Whisper', 'Thea', 'Freyja' ];
 let Uppernames = [];
 let index = 0;
 
